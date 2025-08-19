@@ -15,7 +15,7 @@ import asyncio
 #                        Hệ Thống Dự Đoán V3.0
 # ═══════════════════════════════════════════════════════════════════
 
-TELEGRAM_TOKEN = "8368121215:AAFIWchNFFpIa8ui3F4RhysD5nLWPuI4pFU"
+TELEGRAM_TOKEN = "8228916824:AAFgVkRj9xhJpzrrc43dDH2fVVAy3GHRw5Y"
 CHAT_IDS = ["-1002639168970"]
 ADMIN_ID = "7509896689"
 
